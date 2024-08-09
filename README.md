@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 --> Chuyển đến thư mục sau : 
 ```bash
-cd Django-Chat-Room
+cd ChatRoomWebsite
 
 ```
 
