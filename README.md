@@ -11,7 +11,7 @@
 
 --> Sử dụng câu lệnh :
 ```bash
-git clone https://github.com/Thai1708/Django-Chat-Room.git
+git clone https://github.com/VanThai1708/ChatRoomWebsite.git
 
 ```
 
